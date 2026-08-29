@@ -8,8 +8,8 @@ Check off each item as you complete it.
 ## Stage 1: Foundations (Week 1)
 
 ### Topics
-- [ ] Client-server model
-- [ ] DNS (Domain Name System)
+- [x] Client-server model
+- [x] DNS (Domain Name System)
 - [ ] HTTP / HTTPS basics
 - [ ] TCP vs UDP
 - [ ] What happens when you type a URL in a browser
